@@ -46,5 +46,5 @@ The following **additional** features are implemented:<br/>
    - [x] Theme music (with mute button that saves preferences)
    - [x] Restart button and alert when game is over with option to restart/exit
    - [x] Mario can jump both to the left, right, and straight up
-   <br\>
+ <br/>
 \* Super Mario Bros. is a trademark of Nintendo of America, Inc.
