@@ -10,7 +10,7 @@ Team Name:
 
 ## Testing Specifications
 Name your specifications here:
-* What emulator shoule graders use? Pixel 3 XL or Pixel 2 XL
+* What emulator should graders use? Pixel 3 XL or Pixel 2 XL
 * Should graders use an Android phone?  If a Pixel 3 XL or Pixel 2 XL is available, then yes.
 * Any other requirements? Touch and hold on the right side of the screen to accelerate right or the left side of the screen to accelerate left. Tap only the top part of the screen to jump straight up, and tap and hold the right or left side of the screen in addition to tapping the top part of the screen to jump to the right or left, respectively. If you are using the emulator, please push the jump button in the center of the screen to jump (since emulator does not accept multi-touch inputs).
 
