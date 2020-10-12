@@ -2,12 +2,6 @@
 
 **Super Mario** Clone of the original *Super Mario Bros* game for Android
 
-Team Name:
-* **Armand Ahadi-Sarkani**
-  - 60913515
-* **Kevin Selda**
-  - 95832573
-
 ## Testing Specifications
 Name your specifications here:
 * What emulator should graders use? Pixel 3 XL or Pixel 2 XL
